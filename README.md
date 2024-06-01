@@ -2,6 +2,18 @@
 
 The shutter speed tester is a project which goal is to design and build a tool that allows to test the shutter speed accuracy of a film camera
 
+UPDATED FROM ORIGINAL:
+
+I've shortened the case
+Added holes for a USB C panel mount https://www.ebay.com.au/itm/276324421089
+Added a hole for a 5mm status LED
+Added a hole for the reset button
+Changed the cable output on the housing
+Changed the sensor hole to 5mm and tweaked the cable hole
+
+
+
+
 
 
 When people passionated with old film cameras want to use their camera to shoot film, this sometimes results in an over or an under exposed film.  
