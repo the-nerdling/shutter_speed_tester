@@ -1,0 +1,17 @@
+UPDATED FROM ORIGINAL:
+
+I've shortened the case
+
+Removed the 9v battery, using USB power
+
+Added holes for a USB C panel mount https://www.ebay.com.au/itm/276324421089
+
+Added a hole for a 5mm status LED
+
+Added a hole for the reset button
+
+Changed the cable output on the housing
+
+Changed the sensor hole to 5mm and tweaked the cable hole
+
+Changed the schematic to use an Adafruit ADA2831 phototransistor and 2N3904 transistor
