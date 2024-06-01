@@ -6,6 +6,8 @@ UPDATED FROM ORIGINAL:
 
 I've shortened the case
 
+Removed the 9v battery, using USB power
+
 Added holes for a USB C panel mount https://www.ebay.com.au/itm/276324421089
 
 Added a hole for a 5mm status LED
