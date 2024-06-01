@@ -16,10 +16,11 @@ Changed the cable output on the housing
 
 Changed the sensor hole to 5mm and tweaked the cable hole
 
+Changed the schematic to use an Adafruit ADA2831 phototransistor and 2N3904 transistor
 
 
 
-
+ORIGINAL:
 
 When people passionated with old film cameras want to use their camera to shoot film, this sometimes results in an over or an under exposed film.  
 This is usually due to the speed of the camera shutter that is not any more accurate. In order to check the shutter speed accuracy, the camera owner has to compare the actual opening time of the shutter with the expected one.  
